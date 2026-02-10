@@ -1,0 +1,50 @@
+### General ###
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.run
+
+### VS Code ###
+.vscode/
+
+### LINT COMMIT E COMMITZEN ####
+*-lock.json
+node_modules/
+
+### ACLI LOGS ###
+logs/
+
+### Gradle ###
+HELP.md
+.gradle
+gradle/*
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+/target/*
+.sdkmanrc
+bin/
+gradlew.bat
+gradlew
+
+### SONAR ###
+.scannerwork/
+
+### CUSTOM ###
+.env

@@ -1,0 +1,5 @@
+---
+agent: speckit.constitution
+---
+
+Create principles focused on code quality, testing standards, user experience consistency, and performance requirements.
